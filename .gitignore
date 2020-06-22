@@ -6,4 +6,4 @@ db.sqlite3
 /static
 .DS_Store
 /conf
-/node_modules
+node_modules
