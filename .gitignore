@@ -1,4 +1,4 @@
-.vsocde
+.vsocde/
 *.pyc
 *~
 __pycache__
@@ -9,3 +9,4 @@ db.sqlite3
 /conf
 node_modules
 /node_modules
+
